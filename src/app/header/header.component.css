@@ -1,0 +1,28 @@
+.heade{
+    
+    display: inline-flex;
+    list-style: none;
+    margin: 0;
+    padding-left: 10;    
+
+    }
+
+    .flexx{
+        /* display: flex; */
+        /* margin-left: 10px; */
+        /* margin-right: 10px; */
+        /* display: inline-flex; */
+        color: blueviolet;
+    }
+
+    li,a{
+        margin-right: 10;
+        padding-left: 10px;
+        padding-top: 15px;
+
+    }
+   
+    .inp{
+        color: blueviolet;
+        padding-left: 1px;
+    }
